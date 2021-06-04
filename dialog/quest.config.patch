@@ -1,0 +1,204 @@
+[
+    {
+        "op": "replace",
+        "path": "/intimidate/intimidated/bunnykin/default",
+        "value": [
+            "请不要用<item>伤害我！告诉<questGiver>我愿意做任何事！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/intimidate/notIntimidated/bunnykin/default",
+        "value": [
+            "你和<questGiver>都吓不倒我！",
+            "告诉<questGiver>，让他滚毛去吧！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/bribe/giftAccepted/bunnykin/default",
+        "value": [
+            "哦嚯嚯，请代我向<questGiver>问好。",
+            "贿赂我？噢很好，请代我向<questGiver>道谢。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/bribe/giftAccepted2/bunnykin/default",
+        "value": [
+            "<questGiver>想从我这儿得到什么呢？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/bribe/requestAdditionToHouse/bunnykin/default",
+        "value": [
+            "太棒了！你能帮我把它放在我的家里吗？",
+            "这在我家里肯定会很不错的，你能把它放在个好地方吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/gift/giftAccepted/bunnykin/default",
+        "value": [
+            "<questGiver>真是太慷慨了，请帮我道谢。",
+            "谢谢你！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/gift/giftAccepted2/bunnykin/default",
+        "value": [
+            "<questGiver>对我来说是个很棒的朋友。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/gift/requestAdditionToHouse/bunnykin/default",
+        "value": [
+            "这真是个很棒的礼物！你能帮我把它放在我的家里吗？",
+            "这个礼物在我家里肯定会很不错的，你能把它放在个好地方吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/return_stolen/objectTaken/bunnykin/default",
+        "value": [
+            "我是诚实守法地把<item>从地里挖出来的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/collect_fine/fineCollected/bunnykin/default",
+        "value": [
+            "我不想找麻烦，我会付钱的！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/collect_gift/giftProvided/bunnykin/default",
+        "value": [
+            "我希望<questGiver>能喜欢<item>！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/request_craft/giftProvided/bunnykin/default",
+        "value": [
+            "我希望<questGiver>能喜欢他们的新<item>，那可是我亲手做的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/borrow/giftProvided/bunnykin/default",
+        "value": [
+            "这就是<item>，代我向<questGiver>说，让他好好保管。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/extort/giftProvided/bunnykin/default",
+        "value": [
+            "哇哦！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hat/crafting/bunnykin/default",
+        "value": [
+            "太好了，请稍等一下，我做好后马上回来。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hat/crafted/bunnykin/default",
+        "value": [
+            "感谢你的耐心。请代我拿上这个转交给<questGiver>。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/helmet/crafting/bunnykin/default",
+        "value": [
+            "太好了，请稍等一下，我做好后马上回来。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/helmet/crafted/bunnykin/default",
+        "value": [
+            "感谢你的耐心。请代我拿上这个转交给<questGiver>。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/new_stock/trade/bunnykin/default",
+        "value": [
+            "这是给<questGiver>的包裹，如果可以的话请带给他们。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/kidnapping/kidnappersDead/bunnykin/default",
+        "value": [
+            "感谢你救了我，我的朋友！",
+            "我欠你个救命之恩！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/kidnapping/followHome/bunnykin/default",
+        "value": [
+            "我一个人走真的太可怕了……你能护送我去见<questGiver>吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/escort/found/bunnykin/default",
+        "value": [
+            "你知道到<questGiver>的路要怎么走吗，你能当我的向导吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/barter/trade/bunnykin/default",
+        "value": [
+            "感谢你的货物，这是<questGiver>的<receivedItems>。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/escort_trade/collectDelivery/bunnykin/default",
+        "value": [
+            "你有包裹要交给我吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/escort_trade/provideDelivery/bunnykin/default",
+        "value": [
+            "这是您的东西，我的朋友。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/kill_npcs/assistantIntro/bunnykin/default",
+        "value": [
+            "嘿，嘿！<questGiver> 是我的老朋友，他们让我来帮你解决<enemy>。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/kill_npc/surrender/bunnykin/default",
+        "value": [
+            "你赢了，我不会再和你们战斗了！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/kill_npc/betray/bunnykin/default",
+        "value": [
+            "不敢相信你竟然真信了！"
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "红色让你跑的更快！"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "英雄的披风"
+    }
+]

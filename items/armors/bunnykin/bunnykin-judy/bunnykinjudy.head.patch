@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "我们唯一要害怕的，就是害怕本身。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "朱迪的鼻子"
+    }
+]

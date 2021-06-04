@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "感觉就像什么都没穿。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "巴奇的松身裤"
+    }
+]

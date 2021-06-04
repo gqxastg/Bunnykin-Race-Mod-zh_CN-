@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "姆姆姆姆。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "毛绒头套"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一根胡萝卜做的武器？这工业可真先进。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "兔族大剑"
+    }
+]

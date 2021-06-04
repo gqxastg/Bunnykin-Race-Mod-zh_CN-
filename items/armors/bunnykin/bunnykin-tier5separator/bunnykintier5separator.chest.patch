@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "C代表队长……或者胡萝卜。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "队长的护胸"
+    }
+]

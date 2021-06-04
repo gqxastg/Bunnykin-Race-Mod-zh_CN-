@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "适合王者戴的护目镜。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "格斗家的护目镜"
+    }
+]

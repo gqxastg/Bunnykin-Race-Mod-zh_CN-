@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "^red;文件名已过时^reset;"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "鞋子"
+    }
+]

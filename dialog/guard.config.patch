@@ -1,0 +1,33 @@
+[
+    {
+        "op": "replace",
+        "path": "/hail/bunnykin/default",
+        "value": [
+            "我一直盯着你呢。",
+            "你，规矩点。",
+            "我们不会容许有不法之徒在这儿。",
+            "往前走。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/bunnykin/bunnykin",
+        "value": [
+            "你好，同胞。",
+            "照顾好自己，我的朋友。",
+            "很高兴能见到一位兔族伙计。",
+            "你好。",
+            "我们会再次崛起。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/bunnykin/human",
+        "value": [
+            "臭人类。",
+            "你该庆幸我不会杀了你。",
+            "我在盯着你。",
+            "滚毛去吧。"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "来自兔族学院的兔族小型壁挂旗。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "兔族小型壁挂旗"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "这面旗帜真小……"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "一面小型旗帜！真迷人！"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "破旗帜……叶族人不不不喜欢这这这个。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "着迷。一面兔族小型旗帜……"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "这面兔族旗帜真可爱。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这面旗帜很可爱。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "挂在我家里应该会看起来很棒。"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "我很高兴看到兔族文化蓬勃发展！"
+    }
+]

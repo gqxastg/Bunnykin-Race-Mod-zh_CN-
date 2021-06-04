@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "多么漂亮。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "伊奥斯特的裤子"
+    }
+]

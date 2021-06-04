@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "你怎么样？",
+            "你还在用那把初级剑吗？",
+            "最近咋样？",
+            "看看而已。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/bunnykin",
+        "value": [
+            "你怎么能忍受和人类待在一起？",
+            "你还在用那把胡萝卜剑吗？",
+            "啥事儿，老兄？",
+            "看看而已，谢谢你。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/human",
+        "value": [
+            "呃，走开！",
+            "你们还那么原始吗？",
+            "你们人类真是脏了我们的世界。",
+            "往前走。"
+        ]
+    }
+]

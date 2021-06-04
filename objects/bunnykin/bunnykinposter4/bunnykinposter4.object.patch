@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一幅兔子奔跑的肖像画。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "南悉尼兔子-小"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "我不关注运动。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "\"南悉尼兔子\"是什么？"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "这这这个兔族人有点眼熟。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "担心。多么暴力的运动。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "噢！我爱这支队伍！"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "你说的NRL是什么？"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "咿哈！我很喜欢运动！"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "我最好不要让别的兔族人看到我在展示这张海报。"
+    }
+]

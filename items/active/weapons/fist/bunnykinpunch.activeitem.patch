@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "咔嗙！"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "兔子拳击手套"
+    }
+]

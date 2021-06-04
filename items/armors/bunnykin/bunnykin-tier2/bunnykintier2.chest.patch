@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "夏日大作战中最适合穿的衣服。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "一位英雄的背心"
+    }
+]

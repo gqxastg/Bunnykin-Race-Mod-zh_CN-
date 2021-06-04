@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "蹦蹦跳跳。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "鞋子"
+    }
+]

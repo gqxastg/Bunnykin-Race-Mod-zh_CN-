@@ -1,0 +1,29 @@
+[
+    {
+        "op": "replace",
+        "path": "/helpme/bunnykin/default",
+        "value": [
+            "啊啊啊啊啊！",
+            "救我！",
+            "噢不不不不！"
+        ]
+    /* },
+    {
+        "op": "replace",
+        "path": "/helpthem/bunnykin/default",
+        "value": [
+            "You disgust me.",
+            "You acted like a typical Human"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/encourage/bunnykin/default",
+        "value": [
+            "Go! Go! Go!",
+            "You can do it!",
+            "Chase them down",
+            "RAWR"
+        ]
+    */ }
+]

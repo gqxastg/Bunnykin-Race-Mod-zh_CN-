@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "护目镜起效了！"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "巴奇的护目镜"
+    }
+]

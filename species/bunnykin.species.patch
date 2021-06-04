@@ -1,0 +1,33 @@
+[
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels",
+        "value": [
+            "毛色",
+            "耳朵",
+            "上衣",
+            "裤子",
+            "标记颜色",
+            "耳朵颜色",
+            "上衣颜色",
+            "裤子颜色",
+            "兔族",
+            "人物性格"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/title",
+        "value": "兔族"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/description",
+        "value": "在人类入侵他们的母星后，兔族被认为已经灭绝了。它们最近被重新发现，在躲避人类。"
+    /* },
+    {
+        "op": "replace",
+        "path": "/nameGen/1",
+        "value": "/species/bunnykinnamegen.config:female-names"
+    */ }
+]

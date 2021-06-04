@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "甚至看起来都没有1000年历史。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "超级忍者头盔"
+    }
+]

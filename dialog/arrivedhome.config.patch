@@ -1,0 +1,28 @@
+[
+    {
+        "op": "replace",
+        "path": "/beacon/bunnykin/default",
+        "value": [
+            "我回来了！",
+            "嗨你好！",
+            "我能帮你什么吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/bunnykin/bunnykin",
+        "value": [
+            "在家真好。",
+            "你好，同胞！",
+            "近来如何？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/bunnykin/default",
+        "value": [
+            "这是一个给你的小小谢礼！",
+            "感激你的帮助！"
+        ]
+    }
+]

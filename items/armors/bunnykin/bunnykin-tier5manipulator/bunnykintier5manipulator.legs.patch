@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "有点宽松，但合身。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "八哥的裤子"
+    }
+]

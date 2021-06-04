@@ -1,0 +1,148 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一个很老的兔族人，她还没准备好说话。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "梅老奶奶"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "也许我可以研究一下这个兔族人的寿命。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "一个非常非常年迈的兔族人。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "超超超超超级老。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "困惑。她到底多少岁了？"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "这个兔族人死一般地怒视着我。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我相信我能从她那里学到很多东西。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "她真是个精力充沛的人！"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "我爱奶奶，她有那么多的曾曾曾曾曾曾孙。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/0",
+        "value": "ZzzzzzZZZZzzzzzzzz"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/1",
+        "value": "嗯？什么？"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/2",
+        "value": "对不起，亲爱的，我一定是打瞌睡了……已经好几个月了吧。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/3",
+        "value": "我们的许多小同胞一直想了解我们族人的过去，我觉得现在也是时候告诉你了。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/4",
+        "value": "几个世纪前，兔族还是一支原始的种族，臣服在人类之下。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/5",
+        "value": "我们被当作宠物饲养，被灌输相信自己是劣等的。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/6",
+        "value": "经过决心的考验，我们超越了人类对我们的预想，也靠双腿站了起来。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/7",
+        "value": "人类嫉恨我们，大概是借我们的老实，要将我们赶尽杀绝。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/8",
+        "value": "我们仓促地逃到了一个邻近的星球，在我们历史上第一次繁荣了起来。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/9",
+        "value": "但这对^red;他们^reset;来说还不够。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/10",
+        "value": "太糟了。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/11",
+        "value": "他们再一次追杀我们，大量的屠杀我们的族人。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/12",
+        "value": "不把我们整个星球毁灭，决不罢休。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/13",
+        "value": "^red;听听，这群没了星球的畜生嚎得有多惨哟！^reset;"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/14",
+        "value": "同胞们，绝对不要忘记你们来自哪里。"
+    },
+    {
+        "op": "add",
+        "path": "/chatOptions_Zh_CN_BACKUP",
+        "value": [
+            "ZzzzzzZZZZzzzzzzzz",
+            "嗯，什么？",
+            "对不起，亲爱的，我一定是打瞌睡了……已经好几个月了吧。",
+            "我们的许多小同胞一直想了解我们族人的过去，我觉得现在也是时候告诉你了。",
+            "几个世纪前，兔族还是一支原始的种族，臣服在人类之下。",
+            "我们被当作宠物饲养，被灌输相信自己是劣等的。",
+            "经过决心的考验，我们超越了人类对我们的预想，也靠双腿站了起来。",
+            "人类嫉恨我们，大概是借我们的老实，要将我们赶尽杀绝。",
+            "我们仓促地逃到了一个临近的星球，在我们历史上第一次繁荣了起来。",
+            "但这对^red;他们^reset;来说还不够。",
+            "太糟了。",
+            "他们再一次追杀我们，大量的屠杀我们的族人。",
+            "不把我们整个星球毁灭，决不罢休。",
+            "^red;听听，这群没了星球的畜生嚎得有多惨哟！^reset;",
+            "同胞们，绝对不要忘记你们来自哪里。"
+        ]
+    }
+]

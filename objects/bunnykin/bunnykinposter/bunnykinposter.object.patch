@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一张愤怒的海报。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "人类是麻烦"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "种族关系是个难搞的课题。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "令人忧虑。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "非非非常的愤怒。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "担心。多么暴力。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "……"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我见过更好的字体选择。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "真是见鬼了！"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "一张迷人的海报。"
+    }
+]

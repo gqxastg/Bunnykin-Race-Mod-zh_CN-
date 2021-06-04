@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "看起来像是偷来的。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "梅奶奶的眼镜"
+    }
+]

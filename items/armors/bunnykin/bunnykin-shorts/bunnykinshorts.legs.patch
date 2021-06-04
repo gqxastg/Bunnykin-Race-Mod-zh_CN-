@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "我喜欢短裤！它们舒适又易穿！"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "短裤"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一个草做的板凳。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "草板凳"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一个用草做的座位，多么古朴。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "一个用草构建的板凳。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人喜喜喜欢这个草草草草草。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "愉快。我想这是个叶族板凳。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "这是个草做的板凳，整洁。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我见过造得更好的板凳。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这里这个板凳是用草做成的。"
+    }
+]

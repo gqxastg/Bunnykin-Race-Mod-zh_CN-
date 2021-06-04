@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "嗒哒——。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "西装裤"
+    }
+]

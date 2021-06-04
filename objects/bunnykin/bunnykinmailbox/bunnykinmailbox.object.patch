@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一个木制信箱。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "木制信箱"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "是个信箱。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "一个用来寄信的盒子。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人不寄信。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "不关心。一个用来寄邮件的投递箱。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "是个信箱。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "只是个信箱。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "一个用来寄邮件的盒子？对我来说，看起来不像个传送设备……"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "一个木质信箱，质量上乘。"
+    }
+]

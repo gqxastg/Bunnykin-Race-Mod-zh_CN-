@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "给自己一个各种颜色的鼻子！"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "鼻子彩绘"
+    }
+]

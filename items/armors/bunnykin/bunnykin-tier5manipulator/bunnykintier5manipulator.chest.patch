@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "胸前有一个相当时髦的S。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "八哥的胸甲"
+    }
+]

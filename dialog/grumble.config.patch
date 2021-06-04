@@ -1,0 +1,40 @@
+[
+    {
+        "op": "replace",
+        "path": "/tagCriteria/bunnykin/default",
+        "value": [
+            "这里的一些东西被动过了，我不喜欢这样。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/bunnykin/default",
+        "value": [
+            "你得把这个地方修好。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/bunnykin/default",
+        "value": [
+            "我可是和12个兄弟姐妹一起长大的，我只想这地方属于我！",
+            "你不能邀请其他人呆在这。如果它们是人类怎么办？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/bunnykin/default",
+        "value": [
+            "这也太荒谬了，我忍不了了！",
+            "把这修好，不然就出来面对我！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/bunnykin/default",
+        "value": [
+            "我走了！",
+            "滚毛去吧！我要离开了。"
+        ]
+    }
+]

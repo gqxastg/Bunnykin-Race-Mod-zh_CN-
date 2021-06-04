@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "感觉像是被做成适合某种形状的手。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "走你枪"
+    }
+]

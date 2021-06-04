@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "钛腿部。真不错。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "机械兔腿部"
+    }
+]

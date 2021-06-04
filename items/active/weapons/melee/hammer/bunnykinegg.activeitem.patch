@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "激\"蛋\"人心！"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "好大个彩蛋"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "Zip a Dee Ay"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "舒适衬衫"
+    }
+]

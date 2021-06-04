@@ -1,0 +1,62 @@
+[
+    {
+        "op": "replace",
+        "path": "/merchantStart/bunnykin/default",
+        "value": [
+            "欢迎光临小店！",
+            "我能为您效劳吗？",
+            "请仔细看看我的货物。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/bunnykin/default",
+        "value": [
+            "欢迎下次光临！",
+            "请早日再来。",
+            "这里永远欢迎你和你的钱包！",
+            "很高兴跟你做生意！",
+            "感谢惠顾。",
+            "很高兴见到你！",
+            "期待和你再做生意。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/bunnykin/default",
+        "value": [
+            "这边请。",
+            "我可以带你看这个世界。",
+            "请跟我来。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/bunnykin/default",
+        "value": [
+            "欢迎！",
+            "我们谈生意吧。",
+            "既然我们到了，有什么能为您效劳的吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/bunnykin/default",
+        "value": [
+            "商品待售！",
+            "嘿，你，来看看我的优质商品吧！",
+            "超值优惠！",
+            "物美价廉！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/bunnykin/human",
+        "value": [
+            "你是小偷吗？",
+            "我从这儿就能闻到你。",
+            "你知道的，我们还在重建。",
+            "呃。"
+        ]
+    }
+]

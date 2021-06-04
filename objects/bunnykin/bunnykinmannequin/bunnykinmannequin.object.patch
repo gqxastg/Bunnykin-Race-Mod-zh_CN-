@@ -1,0 +1,13 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "展示并方便装备护甲套装！"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "兔族人体模特"
+    }
+
+]

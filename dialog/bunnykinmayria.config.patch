@@ -1,0 +1,207 @@
+[
+    {
+        "op": "replace",
+        "path": "/mayriaStart/default/default",
+        "value": [
+            "欢迎光临小店！",
+            "有喜欢的吗？",
+            "我能帮你做什么吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/mayriaStart/bunnykin/default",
+        "value": [
+            "欢迎，欢迎，欢迎！",
+            "我有很多优质的兔族商品，有兴趣吗？",
+            "有喜欢的吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/mayriaEnd/default/default",
+        "value": [
+            "欢迎下次光临！",
+            "请早日再来。",
+            "这里永远欢迎你和你的钱包！",
+            "很高兴跟你做生意！",
+            "感谢惠顾。",
+            "很高兴见到你！",
+            "期待和你再做生意。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/mayriaEnd/bunnykin/default",
+        "value": [
+            "告诉你的朋友也来买吧！",
+            "很高兴能拿走你的钱，哈哈。",
+            "感谢惠顾。",
+            "希望很快能再见！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/default/default",
+        "value": [
+            "来，跟着我去我的商店做交易。",
+            "来，来，看看我这里有什么！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/bunnykin/default",
+        "value": [
+            "来，来，看看我这里有什么！",
+            "跟我来，我带你看看我的商店。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/default/default",
+        "value": [
+            "欢迎来到我的商店！",
+            "我们到了。那么，你想要什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/bunnykin/default",
+        "value": [
+            "欢迎来到我可爱的商店！",
+            "我们到了。那么，你想要什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/default/default",
+        "value": [
+            "商品待售！",
+            "嘿，你，来看看我的优质商品吧！",
+            "超值优惠！",
+            "物美价廉！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/bunnykin/default",
+        "value": [
+            "嘿，嘿！",
+            "你得买这些东西！",
+            "我可不会一直在这里的！",
+            "买买买！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/default/default",
+        "value": [
+            "我店里的一些东西变了，我不喜欢这样！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/bunnykin/default",
+        "value": [
+            "你从我店里偷东西了吗？",
+            "我的商店的布局变了，这不太对…",
+            "我的店子变得不对劲了，这要我怎么卖东西？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/default/default",
+        "value": [
+            "我的房子需要修理！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/bunnykin/default",
+        "value": [
+            "你能修好这墙吗？这种破坏会把顾客全都赶跑的。",
+            "如果我想要客人光顾就需要先修好那堵墙。你能帮忙吗？",
+            "我的店需要保持在最好的状态！你能帮忙修好它么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/default/default",
+        "value": [
+            "我原以为这地方是给我的！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/bunnykin/default",
+        "value": [
+            "我以为这地方只租给我呢！？我不会跟别人分享商店的！",
+            "你在试着让另一个人住到我的店里来？！",
+            "为什么你在这签订了另一个契约？！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/default/default",
+        "value": [
+            "这种条件下我的货卖不出去！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/bunnykin/default",
+        "value": [
+            "这种条件下我的货卖不出去！",
+            "这工作条件可不能被接受…",
+            "这样子工作是不可能的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/default/default",
+        "value": [
+            "我受够了！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/bunnykin/default",
+        "value": [
+            "我受够了！",
+            "就这样吧，我放弃了。是时候到别处做生意了！",
+            "我放弃了，我会去别的地方卖我的货。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/default/default",
+        "value": [
+            "我到家了！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/bunnykin/default",
+        "value": [
+            "你叫我？",
+            "有你想买的东西吗？",
+            "嗨！你想买点什么吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/default/default",
+        "value": [
+            "这是为了答谢你给店子的帮助的礼物！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/bunnykin/default",
+        "value": [
+            "我想你可能会喜欢这个。",
+            "这是为了答谢你给店子的帮助的礼物！",
+            "我真的很感谢你所做的一切，这个礼物给你。"
+        ]
+    }
+]

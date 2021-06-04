@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "胸部毫不遮掩。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "俏皮的胸甲"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "神秘商人"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "看起来很眼熟"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "这是个兔族人吗？"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "神秘商人"
+    },
+    {
+        "op": "replace",
+        "path": "/category",
+        "value": "商人"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一个与我以往所见不同的兔族人。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "这个商人吓到我了，我以前见过他们的脸。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人有点点点被沉沉沉默的兔族人吓吓吓到了。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "感兴趣。这看起来似乎来自翼族的历史。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "我发现它的凝视令人不安。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这个沉默的生物不是从这附近来的。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "你的舌头给猫捉住了吗？"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "我从这个商人身上感受到一股古老的力量。"
+    }
+]

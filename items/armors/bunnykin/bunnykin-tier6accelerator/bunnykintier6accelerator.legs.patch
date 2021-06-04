@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "跑步是个难题。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "积木腿部"
+    }
+]

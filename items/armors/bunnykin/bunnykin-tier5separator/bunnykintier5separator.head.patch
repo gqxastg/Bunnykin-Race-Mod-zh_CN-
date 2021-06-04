@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "您将拥有完美的视力。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "队长的面罩"
+    }
+]

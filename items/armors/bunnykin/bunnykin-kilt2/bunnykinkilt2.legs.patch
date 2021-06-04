@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "巡夜格子是最好的花格图案。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "苏格兰短裙2"
+    }
+]

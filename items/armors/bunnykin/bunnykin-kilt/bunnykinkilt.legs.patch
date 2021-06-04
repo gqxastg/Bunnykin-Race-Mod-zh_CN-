@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "好一个苏格兰裙。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "苏格兰短裙"
+    }
+]

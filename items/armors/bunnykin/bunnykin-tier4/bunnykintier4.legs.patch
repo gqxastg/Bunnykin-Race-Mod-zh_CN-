@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "80年代从未如此流行。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "超级忍者裤子"
+    }
+]

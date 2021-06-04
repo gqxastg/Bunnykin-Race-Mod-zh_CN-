@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "至少你的脚得到了保护。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "俏皮的腿部"
+    }
+]

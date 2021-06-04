@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一张精心打造，盖满草的床。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "草制床"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "这看起来会很痒。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "我们的家具是用稻草做的，不是草。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "难难难道它是为我打造的吗？"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "观察。一个有用的电池充电站。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "有人把草洒在这张床上了吗？"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "简单而迷人。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "让我想起了露营的时光。"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "一张非常诱人的床。"
+    }
+]

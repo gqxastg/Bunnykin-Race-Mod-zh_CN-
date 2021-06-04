@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "P.R.会同意的。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "休闲开衫"
+    }
+]

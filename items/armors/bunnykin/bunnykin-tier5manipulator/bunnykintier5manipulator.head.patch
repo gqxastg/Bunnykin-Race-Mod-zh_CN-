@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "1997年是个好年头。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "八哥的头盔"
+    }
+]

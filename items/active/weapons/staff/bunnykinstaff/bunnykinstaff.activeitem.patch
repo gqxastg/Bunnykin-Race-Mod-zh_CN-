@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "毒素是天然的，对吧？"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "奥丝塔拉的法杖"
+    }
+]

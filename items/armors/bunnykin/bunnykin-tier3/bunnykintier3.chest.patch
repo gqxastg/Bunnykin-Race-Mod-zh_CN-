@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "钛手臂。太棒了。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "机械兔手臂"
+    }
+]

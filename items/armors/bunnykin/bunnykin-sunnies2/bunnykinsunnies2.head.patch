@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "这是太阳镜。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "墨镜"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一个令人想拥抱的可爱玩具。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "兔族玩偶"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一个骄傲的民族有着坎坷的过去，这个玩具一定是种莫大的安慰。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "这个设计看起来很眼熟……"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "玩具是棕色的。这这这是块石头吗？"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "好奇。我不知道他们了解纺织工艺。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "我想在我小时候，曾有一个一样的。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "兔族是一个骄傲的种族，有着丰富的遗产。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这个地方对我们俩来说都不够大。"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "我只想给它一个拥抱。"
+    }
+]

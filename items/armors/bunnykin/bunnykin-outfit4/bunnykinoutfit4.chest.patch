@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "我的袖子空空如也。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "西装外套"
+    }
+]

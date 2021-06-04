@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/identity/name",
+        "value": "梅里亚"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "陌生商人"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": "全部兔族商品！"
+    }
+]

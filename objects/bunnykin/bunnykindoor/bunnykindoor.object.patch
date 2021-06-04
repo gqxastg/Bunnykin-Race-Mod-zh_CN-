@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一扇雕刻精美的门。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "兔族门"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "在一个圆脸生物上方有只鸟。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "这扇门上的图像向来自其他世界的人们表达了友谊。我的家就是你的家。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "鸟用脸下蛋。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "受教。这扇门象征着谁能进来，谁不能进来。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "在底部有张很恐怖的脸。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这里描画的是什么生物？"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "上面有图画的门。它是想试着表达什么？"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "上面有图画的门。它是想试着表达什么？"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "何等绝妙。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "伊奥斯特的装束"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "相当开放。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "队长的裤子"
+    }
+]

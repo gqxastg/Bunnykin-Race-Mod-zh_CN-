@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/attack/bunnykin/default",
+        "value": [
+            "咱们开干吧！",
+            "跳跃前进！",
+            "前进！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/killedTarget/bunnykin/default",
+        "value": [
+            "没有什么能比得上鲜血的味道。",
+            "行动完毕。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/lostTarget/bunnykin/default",
+        "value": [
+            "嗨？你还在吗？"
+        ]
+    }
+]

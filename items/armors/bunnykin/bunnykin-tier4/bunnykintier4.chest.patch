@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "有某种既视感……或者也不是？"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "超级忍者胸甲"
+    }
+]

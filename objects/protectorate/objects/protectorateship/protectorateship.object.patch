@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/bunnykinDescription",
+    "value": "正如我所希望的那样！这艘飞船会是我逃离这里的途径。"
+  }
+]

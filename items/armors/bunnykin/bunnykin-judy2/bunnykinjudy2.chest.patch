@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "快点！我们要赶在晚高峰前……"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "朱迪的胸部"
+    }
+]

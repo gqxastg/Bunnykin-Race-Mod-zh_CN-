@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "太毛茸茸了。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "毛绒胸甲"
+    }
+]

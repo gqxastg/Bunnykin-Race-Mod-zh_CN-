@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "舒适的T恤。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "平袖T恤"
+    }
+]
